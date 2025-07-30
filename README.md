@@ -5,7 +5,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermePoma&layout=compact&theme=apprentice&show_icons=true" alt="Top Languages" loading="lazy" width="385" height="165" /><img src="https://github-readme-stats.vercel.app/api?username=GuilhermePoma&show_icons=true&theme=apprentice&include_all_commits=true&count_private=true" alt="GitHub Stats" loading="lazy" width="385" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermePoma&layout=compact&theme=apprentice&show_icons=true" alt="Top Languages" loading="lazy" width="385" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GuilhermePoma&show_icons=true&theme=apprentice&include_all_commits=true&count_private=true" alt="GitHub Stats" loading="lazy" width="385" height="165" />
 </p>
 
 <h2 align="center">🛠️ Ferramentas e Tecnologias</h2>
@@ -16,7 +17,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   <img src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" alt="C" width="40" height="40"/>
-  
+  <img src="https://static.wikia.nocookie.net/logopedia/images/2/2b/GameMaker_Icon.svg/revision/latest?cb=20250121072954" alt="C" width="40" height="40"/>
 </p>
 
 <h2 align="center">✉️ Contato</h2>
