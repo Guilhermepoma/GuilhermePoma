@@ -1,7 +1,7 @@
 <h1 align="center">Olá, me chamo Guilherme Poma, Prazer! 👋</h1>
 
 <p align="center">
-  Sou um desenvolvedor apaixonado por automações e criação de jogos. Atualmente, estou cursando a 2ª fase do curso de Informática na SATC.
+  Sou um desenvolvedor apaixonado por automações e criação de jogos. Atualmente, <br>estou cursando a 2ª fase do curso de Informática na SATC.
 </p>
 
 <p align="center">
