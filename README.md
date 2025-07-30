@@ -5,8 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermePoma&layout=compact&theme=apprentice&show_icons=true" alt="Top Languages" loading="lazy" width="385" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api?username=GuilhermePoma&show_icons=true&theme=apprentice&include_all_commits=true&count_private=true" alt="GitHub Stats" loading="lazy" width="385" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermePoma&layout=compact&theme=apprentice&show_icons=true" alt="Top Languages" loading="lazy" width="385" height="165" /><img src="https://github-readme-stats.vercel.app/api?username=GuilhermePoma&show_icons=true&theme=apprentice&include_all_commits=true&count_private=true" alt="GitHub Stats" loading="lazy" width="385" height="165" />
 </p>
 
 <h2 align="center">🛠️ Ferramentas e Tecnologias</h2>
