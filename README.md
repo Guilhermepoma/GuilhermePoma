@@ -1,4 +1,4 @@
-<h2> Olá, me chamo Guilherme Poma, Prazer! <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWw0dnk2bGluNnI4eDllajg5b3ZlbW12M2t1ZGY1M2ljZHFncjVodCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/boYxZ1fa72kcgr70sN/giphy.gif" width="50"></h2>
+<p align='center'> <h2> Olá, me chamo Guilherme Poma, Prazer! <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWw0dnk2bGluNnI4eDllajg5b3ZlbW12M2t1ZGY1M2ljZHFncjVodCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/boYxZ1fa72kcgr70sN/giphy.gif" width="50"></h2>
 
 <div>
   <a href="https://github.com/Guilhermepoma">
