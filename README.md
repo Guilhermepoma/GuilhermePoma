@@ -5,11 +5,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermePoma&layout=compact&theme=monokai&show_icons=true" alt="Top Languages" loading="lazy" />
-  <img src="https://github-readme-stats.vercel.app/api?username=GuilhermePoma&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats" loading="lazy" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermePoma&layout=compact&theme=apprentice&show_icons=true" alt="Top Languages" loading="lazy" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GuilhermePoma&show_icons=true&theme=apprentice&include_all_commits=true&count_private=true" alt="GitHub Stats" loading="lazy" />
 </p>
-
----
 
 <h2 align="center">🛠️ Ferramentas e Tecnologias</h2>
 
@@ -17,17 +15,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <img src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" alt="C" width="40" height="40"/>
+  
 </p>
-
----
-
-<h2 align="center">🚀 O Que Eu Estou Fazendo Agora</h2>
-
-<p align="center">
-  Atualmente, estou explorando projetos com Python para automação e me aprofundando em frameworks web modernos para criar interfaces de usuário interativas.
-</p>
-
----
 
 <h2 align="center">✉️ Contato</h2>
 
