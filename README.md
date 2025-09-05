@@ -5,7 +5,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermePoma&layout=compact&theme=apprentice&show_icons=true" alt="Top Languages" loading="lazy"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermePoma&layout=compact&theme=transparente&show_icons=true" alt="Top Languages" loading="lazy"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=GuilhermePoma&theme=transparent&hide_border=true" align="center" />
 </p>
 
 <h2 align="center">🛠️ Areas de Conhecimento</h2>
