@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermePoma&layout=compact&hide_border=true&theme=transparent" align="center" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=GuilhermePoma&theme=transparent&hide_border=true" align="center" />
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=GuilhermePoma&theme=transparent&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" /></a>
 </p>
 
 <h2 align="center">🛠️ Areas de Conhecimento</h2>
