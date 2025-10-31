@@ -20,12 +20,10 @@
 #
 
 ### 📊 GitHub Stats
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <a href="https://github.com/GuilhermePoma">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=GuilhermePoma&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  </a>
-  <a href="https://github.com/GuilhermePoma">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermePoma&layout=compact&langs_count=8&theme=tokyonight" />
+<div align="center">
+  <a href="https://github.com/seocodes">
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Guilhermepoma&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilhermepoma&layout=compact&langs_count=8&theme=tokyonight" />
   </a>
 </div>
 
