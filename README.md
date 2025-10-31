@@ -1,10 +1,4 @@
-<h1 align="center">Olá, me chamo Guilherme Poma, Prazer! 👋</h1>
-
-<p align="center">
-  🎓Sou um desenvolvedor apaixonado por automações e criação de jogos. Atualmente, <br>estou cursando a 2ª fase do curso de Informática na SATC.
-</p>
-
-<h2 align="center">✉️ Contato</h2>
+<h2 align="center">✉️ Contact</h2>
 
 <p align="center">
   <a href="https://www.instagram.com/poma_gui" target="_blank">
@@ -15,10 +9,10 @@
   </a>
 </p>
 
-<h2 align="center">🛠️ Areas de Conhecimento</h2>
+<h2 align="center">🛠️ Areas of Expertise</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,py,linux,c,cpp,cs,bash,sqlite,mysql,git,github&theme=dark" alt="Linguagens e Ferramentas" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,py,linux,c,cpp,cs,bash,sqlite,mysql,git,github&theme=dark" alt="Languages and Tools" />
 </div>
 
 <p align="center">
@@ -26,7 +20,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=GuilhermePoma&theme=transparent&hide_border=true" align="center" />
 </p>
 
-### 📈 Activity Graph
+<h3 align="center">📈 Activity Graph</h3>
 <div align="center">
   <img height="300em" src="https://github-readme-activity-graph.vercel.app/graph?username=guilhermepoma&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
 </div>
