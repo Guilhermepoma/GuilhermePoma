@@ -4,25 +4,6 @@
   🎓Sou um desenvolvedor apaixonado por automações e criação de jogos. Atualmente, <br>estou cursando a 2ª fase do curso de Informática na SATC.
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermePoma&layout=compact&hide_border=true&theme=transparent" align="center" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=GuilhermePoma&theme=transparent&hide_border=true" align="center" />
-</p>
-
-<h2 align="center">🛠️ Areas de Conhecimento</h2>
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" alt="C" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" alt="SQL" width="40" height="40"/>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReflYD3bP9E2XvdDCU-8Z42M30Q43YWQjYxg&s" alt="GM" width="40" height="40"/>
-          
-</p>
-
 <h2 align="center">✉️ Contato</h2>
 
 <p align="center">
@@ -33,3 +14,19 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" loading="lazy">
   </a>
 </p>
+
+<h2 align="center">🛠️ Areas de Conhecimento</h2>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,py,linux,c,cpp,cs,bash,sqlite,mysql,git,github&theme=dark" alt="Linguagens e Ferramentas" />
+</div>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermePoma&layout=compact&hide_border=true&theme=transparent" align="center" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=GuilhermePoma&theme=transparent&hide_border=true" align="center" />
+</p>
+
+### 📈 Activity Graph
+<div align="center">
+  <img height="300em" src="https://github-readme-activity-graph.vercel.app/graph?username=guilhermepoma&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+</div>
