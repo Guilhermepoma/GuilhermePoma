@@ -1,40 +1,51 @@
-# 👋 Hi, I'm Guilherme!
+<h1 align="center">👋 Hey! I'm Guilherme</h1>
 
-### ⚙️ Tech Stack
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,py,linux,c,cpp,cs,bash,sqlite,mysql,git,github&theme=dark" alt="Languages and Tools" />
-</div>
+<p align="center">
+  💻 Developer in constant evolution • 🚀 Passionate about technology & games  
+</p>
 
-#
+---
 
-### 🌎 Connect with me
-<div align="center">
+## ⚙️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,py,linux,c,cpp,cs,bash,sqlite,mysql,git,github&theme=dark" />
+</p>
+
+---
+
+## 🌎 Connect with me
+
+<p align="center">
   <a href="https://www.instagram.com/poma_gui" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="mailto:guilhermepomacercena@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:guilhermepomacercena@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</div>
+</p>
 
-#
+---
 
-### 📊 GitHub Stats
-<div align="center">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Guilhermepoma&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilhermepoma&layout=compact&langs_count=8&theme=tokyonight" />
-</div>
+## 📊 GitHub Stats
 
-#
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Guilhermepoma&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilhermepoma&layout=compact&langs_count=8&theme=tokyonight" />
+</p>
 
-### 📈 Activity Graph
-<div align="center">
-  <img height="300em" src="https://github-readme-activity-graph.vercel.app/graph?username=guilhermepoma&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
-</div>
+---
 
-#
+## 📈 Activity
 
-### 🔥 Streak Stats
-<div align="center">
-  <img src="https://streak-stats.vercel.app?user=GuilhermePoma&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Guilhermepoma&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.vercel.app?user=Guilhermepoma&theme=tokyonight&hide_border=true" />
+</p>
