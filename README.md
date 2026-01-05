@@ -4,15 +4,16 @@
   💻 Developer in constant evolution • 🚀 Passionate about technology & games  
 </p>
 
----
-
 ## ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,py,linux,c,cpp,cs,bash,sqlite,mysql,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,py,linux,c,cpp&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cs,bash,sqlite,mysql,git,github&theme=dark" />
 </p>
 
----
+<p align="center">
+  <img src="https://streak-stats.vercel.app?user=Guilhermepoma&theme=tokyonight&hide_border=true" />
+</p>
 
 ## 🌎 Connect with me
 
@@ -23,29 +24,4 @@
   <a href="mailto:guilhermepomacercena@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Guilhermepoma&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilhermepoma&layout=compact&langs_count=8&theme=tokyonight" />
-</p>
-
----
-
-## 📈 Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Guilhermepoma&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.vercel.app?user=Guilhermepoma&theme=tokyonight&hide_border=true" />
 </p>
