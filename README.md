@@ -8,8 +8,12 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,py,linux,c,cpp&theme=dark" />
+</p>
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=cs,bash,sqlite,mysql,git,github&theme=dark" />
 </p>
+
 
 <p align="center">
   <img src="https://streak-stats.vercel.app?user=Guilhermepoma&theme=tokyonight&hide_border=true" />
