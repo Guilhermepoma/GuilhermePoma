@@ -4,7 +4,7 @@
   💻 Developer in constant evolution • 🚀 Passionate about technology & games  
 </p>
 
-## ⚙️ Tech Stack
+<h1 align="center">⚙️ Tech Stack ⚙️</h1>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,py,linux,c,cpp&theme=dark" />
@@ -19,7 +19,7 @@
   <img src="https://streak-stats.vercel.app?user=Guilhermepoma&theme=tokyonight&hide_border=true" />
 </p>
 
-## 🌎 Connect with me
+<h1 align="center">## 🌎 Connect with me 🌎</h1>
 
 <p align="center">
   <a href="https://www.instagram.com/poma_gui" target="_blank">
