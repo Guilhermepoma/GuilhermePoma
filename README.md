@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey! I'm Guilherme</h1>
-## 🔗 Check out my Portfolio: [guilhermepoma.vercel.app](https://guilhermepoma.vercel.app)
+<h2 align="center">🔗 Portfolio: <a href="https://guilhermepoma.vercel.app">guilhermepoma.vercel.app</a></h2>
 
 <p align="center">
   💻 Developer in constant evolution • 🚀 Passionate about technology & games  
