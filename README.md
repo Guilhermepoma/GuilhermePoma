@@ -8,7 +8,7 @@
 <h2 align="center">⚙️ Tech Stack ⚙️</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,py,linux,c,cpp&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,py,c,cpp&theme=dark" />
 </p>
 
 <p align="center">
