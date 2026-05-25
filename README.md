@@ -11,8 +11,6 @@
   💻 Developer in constant evolution • 🚀 Passionate about technology & games
 </p>
 
----
-
 <h2 align="center">⚙️ Tech Stack ⚙️</h2>
 
 <p align="center">
@@ -23,8 +21,6 @@
   <img src="https://skillicons.dev/icons?i=cs,bash,sqlite,mysql,git,github&theme=dark" />
 </p>
 
----
-
 <h2 align="center">📊 GitHub Stats 📊</h2>
 
 <p align="center">
@@ -34,7 +30,6 @@
   />
 </p>
 
----
 
 <h2 align="center">🌎 Connect with me 🌎</h2>
 
